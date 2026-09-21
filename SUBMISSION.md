@@ -3,9 +3,9 @@
 ## Candidate
 
 - **Name:** Amey Naik
-- **Email:**drameynaik@gmail.com
+- **Email:** drameynaik@gmail.com
 - **GitHub:**amey05081999
-- **Selected problem:**Memory Engine
+- **Selected problem:** Memory Engine
 - **Demo video:**
 
 ## Run the project
@@ -728,4 +728,4 @@ An AI-powered assistant that helps users adopt a greener lifestyle through **Ret
 9. **Biodiversity & Wildlife Gardening** — wildlife-friendly gardens, citizen science
 10. **Personal Carbon Footprint** — what it is, how to measure, high-impact actions
 
-Link: https://github.com/amey05081999/1M1B-AI-for-Sustainability
+**Link**: https://github.com/amey05081999/1M1B-AI-for-Sustainability
