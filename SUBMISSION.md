@@ -692,4 +692,40 @@ change is additive rather than a rewrite.
 
 DeepSeek.They contributed to building the database
 
+## Credibility note
 
+# 🌿 Eco Lifestyle Agent
+
+An AI-powered assistant that helps users adopt a greener lifestyle through **Retrieval-Augmented Generation (RAG)**. It retrieves practical sustainability guidance from a curated knowledge base and generates actionable, personalized advice using an LLM.
+
+---
+
+## ✨ Features
+
+| Feature | Details |
+|---|---|
+| 🔍 **RAG Pipeline** | FAISS vector store + sentence-transformers embeddings (local, no API key needed) |
+| 🤖 **LLM Support** | OpenAI GPT (3.5/4o) **or** local Ollama models (llama3, mistral, gemma) |
+| 💬 **Multi-turn Chat** | Maintains conversation history for follow-up questions |
+| 🌱 **Rich Knowledge Base** | 10 curated topic documents covering all major eco-lifestyle areas |
+| 🏛️ **Government Schemes** | UK, US, EU grants and incentive programmes included |
+| 🖥️ **Web UI** | Clean green-themed chat interface |
+| ⚡ **FastAPI Backend** | REST API with automatic Swagger docs at `/docs` |
+| 🔌 **Zero-key mode** | Works without any API key using context-only fallback |
+
+---
+
+## 📚 Knowledge Base Topics
+
+1. **Reducing Plastic Use** — single-use plastics, alternatives, UK/US plastic regulations
+2. **Home Energy Saving & Renewables** — insulation, solar PV, heat pumps, government grants
+3. **Sustainable Travel & Transport** — carbon by mode, EVs, trains, eco holidays
+4. **Recycling, Waste & Composting** — what to recycle, composting, food waste reduction
+5. **Sustainable Diet & Food** — carbon footprint of foods, plant-based eating, seasonal buying
+6. **Eco-Friendly Products & Shopping** — certifications, eco-brands, sustainable fashion
+7. **Water Conservation** — indoor/outdoor tips, virtual water, government water schemes
+8. **Government Schemes & Grants** — UK, US, EU incentives and environmental programmes
+9. **Biodiversity & Wildlife Gardening** — wildlife-friendly gardens, citizen science
+10. **Personal Carbon Footprint** — what it is, how to measure, high-impact actions
+
+Link: https://github.com/amey05081999/1M1B-AI-for-Sustainability
